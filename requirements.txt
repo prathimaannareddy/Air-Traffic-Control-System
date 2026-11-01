@@ -1,0 +1,8 @@
+pandas>=2.1
+numpy>=1.26
+networkx>=3.2
+plotly>=5.18
+dash>=2.14
+dash-bootstrap-components>=1.5
+python-louvain>=0.16
+pyarrow>=14.0
